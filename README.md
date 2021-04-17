@@ -3,6 +3,7 @@
 The purpose of this repository is to implementing ML algorithms from scratch and get better understanding of the mathematics behind each algorithm.
 
 ## Linear regression:
+<img src="https://user-images.githubusercontent.com/70089477/115104659-a2b03380-9f62-11eb-8f9a-fc9b6a3d375b.png" width="100" height="100">
 ![image](https://user-images.githubusercontent.com/70089477/115104659-a2b03380-9f62-11eb-8f9a-fc9b6a3d375b.png | width = 100x100)
 
 1)  Preprocessing
