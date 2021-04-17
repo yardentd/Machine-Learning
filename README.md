@@ -4,6 +4,7 @@ The purpose of this repository is to implementing ML algorithms from scratch and
 
 ## Linear regression:
 <img src="https://user-images.githubusercontent.com/70089477/115104659-a2b03380-9f62-11eb-8f9a-fc9b6a3d375b.png" width="250" height="200">
+
 1)  Preprocessing
 2)  Data Visualization
 3)  Bias Trick - explanation https://coimer.medium.com/bias-trick-472dba79e46a
