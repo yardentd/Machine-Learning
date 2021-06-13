@@ -13,6 +13,17 @@ The purpose of this repository is  implementing ML algorithms from scratch and g
 6)  find best features for regression
 7)  Adaptive Learning Rate
 
+## Map classifier:
+<img src="https://cdn-images-1.medium.com/max/600/1*aFhOj7TdBIZir4keHMgHOw.png" width="300" height="200">
+
+1)  Implement a Naive Bayes Classifier based on Multi-Normal distribution
+2)  Implement a Full Bayes Classifier based on Multi-Normal distribution
+3)  Implement a Discrete Naive Bayes Classifier
+
+
+
+
+
 ## Decision tree :
 ![image](https://user-images.githubusercontent.com/70089477/115104644-91672700-9f62-11eb-8d3a-c8ca88b50ea5.png)
 
